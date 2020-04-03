@@ -1,3 +1,17 @@
+## Exploratory Data Analysis Course Project 1
+
+This repository contains
+
+* five R scripts,
+* 4 PNG files,
+* an updated README file, and 
+* the figure folder from the original repository:
+[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1).
+
+The plot scripts require get_data.R. Be sure to download get_data.R and save it in the working directory.
+
+*Below are the instructions for this project.*
+
 ## Introduction
 
 This assignment uses data from
